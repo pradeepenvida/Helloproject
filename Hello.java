@@ -1,7 +1,13 @@
-public class Helloworld
-{
-public static void main(String args[])
-{
-System.out.println("I'm dancing");
-}
+public class Hello{
+
+     public static void main(String[] args){
+
+          for(int i=1;i<10;i++){
+
+              System.out.println("Hello world ..."+i);
+
+          }
+
+     }
+
 }
